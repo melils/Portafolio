@@ -1,0 +1,12 @@
+.logo{
+    width: 100%;
+}
+.navbar-expand-lg.scrolled .logo-blanco{
+    display:none;
+}	
+.navbar-expand-lg:not(.awake) .logo-dark{
+    display:none;
+}
+.tittle{
+    color: yellow;
+}
