@@ -8739,7 +8739,8 @@ h1, h2, h3, h4, h5,
       width: 100%;
       height: 100%; }
     .sermon-wrap .img .text-content {
-      z-index: 1; }
+      z-index: 1; 
+      margin-top: 315px;}
       .sermon-wrap .img .text-content span {
         text-transform: uppercase;
         letter-spacing: 4px;
