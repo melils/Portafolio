@@ -680,11 +680,11 @@ h1, h2, h3, h4, h5,
 	&.btn-primary {
 		background: $primary;
 		border: 1px solid $primary !important;
-		color: $white !important;
+		color: $white;
 		&:hover {
-			border: 1px solid $primary;
-			background: $primary;
-			color :$primary;
+			border: 1px solid #EBD1C4;
+			background: #EBD1C4;
+			color :#000;
 		}
 		&.btn-outline-primary {
 			border: 1px solid $primary !important;
@@ -924,7 +924,7 @@ h1, h2, h3, h4, h5,
 			}
 			h3{
 				font-family: $font-tertiary;
-				color: $white;
+				color: #566570;
 			}
 			.btn-custom{
 				border: 1px solid rgba(255,255,255,.4);
@@ -1133,7 +1133,7 @@ h1, h2, h3, h4, h5,
 	overflow: visible;
 }
 .progress-bar{
-	background: $primary;
+	background: #566570;
 	box-shadow: none;
 	font-size: 12px;
 	line-height: 1.2;
